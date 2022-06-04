@@ -1,2 +1,2 @@
 # thekebaplist
-Andtroid Application for Kebap-Lovers
+Android Application for Kebap-Lovers
